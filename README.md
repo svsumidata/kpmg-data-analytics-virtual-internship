@@ -5,9 +5,7 @@ This repository documents the completion of a task-based virtual
 internship focused on real-world data analytics consulting scenarios.
 
 ## Overview
-The internship involved analysing datasets to assess data quality,
-identify insights, and present findings in a clear and structured
-manner, similar to a consulting engagement.
+I completed a KPMG Data Analytics Consulting Virtual Internship where I performed data quality checks using Python, reviewed and documented data issues, and delivered dashboard-based business insights and recommendations.
 
 ## Key Tasks
 - Data quality assessment and validation
